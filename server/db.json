@@ -1,0 +1,75 @@
+{
+  "superadmin": [
+    {
+      "id": "superadmin",
+      "firstName": "Terry",
+      "lastName": "Medhurst",
+      "login": "superadmin",
+      "password": "12345678",
+      "email": "atuny0@sohu.com",
+      "image": "https://robohash.org/Terry.png?set=set4"
+    }
+  ],
+  "new_admins": [],
+  "admin": [
+    {
+      "id": "12334",
+      "firstName": "Diyora",
+      "lastName": "Akbaraliyeva",
+      "login": "12334",
+      "password": "12334",
+      "email": "hello@gmail.com",
+      "image": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "9uQFF1Lh",
+      "firstName": "Terry",
+      "lastName": "Medhurst",
+      "email": "atuny0@sohu.com",
+      "phone": "+63 791 675 8914",
+      "login": "9uQFF1Lh",
+      "password": "12345",
+      "image": "https://robohash.org/Terry.png?set=set4"
+    },
+    {
+      "id": "12udFF3L0",
+      "firstName": "Bob",
+      "lastName": "Lorem",
+      "email": "atuny0@sohu.com",
+      "phone": "+63 791 675 8914",
+      "login": "12udFF3L0",
+      "password": "000999",
+      "image": "https://robohash.org/Terry.png?set=set4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "dcbHSDS56",
+      "name": "Choose one of them"
+    },
+    {
+      "id": "dcbHSDS1",
+      "name": "smartphones"
+    },
+    {
+      "id": "dcbHSDS2",
+      "name": "Category 2"
+    },
+    {
+      "id": "dcbHSDS3",
+      "name": "Category 3"
+    }
+  ],
+  "products": [
+    {
+      "title": "bhbyyj",
+      "description": "hjtybrth",
+      "price": "$78656",
+      "category": "smartphones",
+      "images": "nghngmj",
+      "id": "b687"
+    }
+  ]
+}

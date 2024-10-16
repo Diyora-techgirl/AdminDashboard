@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../../assets/sass/style.css">
+    
+</head>
+<body>
+   <div class="registation-container">
+    <div class="input-container">
+    <h1>Registration</h1>
+
+        <form action="#">
+            <div class="registration">
+                <p>have an account?</p>
+                <a href="../log-in/index.html">Log-in</a>
+                <div class="input-box">
+                    <label for="Firstname">Firstname:</label>
+                <input type="text" placeholder="Type here" id="firstname" name="firstname" required/>
+                </div>
+                <div class="input-box">
+                    <label for="Surname">Surname:</label>
+                <input type="text" name="Surname" placeholder="Type here" id="Surname" class="Surname" required></input>
+                </div>
+                <div class="input-box">
+                    <label for="login">Login:</label>
+                    <input  type="text" name="login" placeholder="Type here" id="login" class="login" required></input>
+                </div>
+               <div class="input-box">
+                <label for="password">Password:</label>
+                <input type="text" name="password" placeholder="Type here" id="password" class="password" required></input>
+               </div>
+                <div class="input-box">
+                    <label for="Email">Email address:</label>
+                    <input type="text" name="email" placeholder="Type here" id="email" class="email" required></input>
+                </div>
+                <div class="input-box">
+                    <label for="rasm">Image Url:</label>
+                    <input type="text" name="rasm" placeholder="URL" id="rasm" class="rasm" required></input>
+                </div>
+                <input type="checkbox" required>
+                <i>I do accept the<a href="#">Terms and Conditions</a>of your site</i>
+                <div class="registration_buttons">
+               <button type="submit">Create</button>
+               <button type="reset">Reset</button>
+                </div>
+            </div>
+        </form>
+    </div>
+   </div>
+   <script src="./register.js"></script> 
+</body>
+</html>

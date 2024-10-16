@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../../assets/sass/style.css" />
+    <title>Login</title>
+    
+</head>
+<body>
+    <div class="login-box">
+        <div class="login-container">
+            <h1>Login</h1>
+        <form id="loginForm">
+            <span class="error_message tost">
+                <h4>login or password is invalid</h4>
+                <span class="line"></span>
+            </span>
+            <label for="name">login</label>
+            <input type="text" id="name" name="username" class="login" required />
+            <label for="password">Password</label>
+            <input type="password" class="password" name="password" required />
+            <div class="text-register"> <p>don't have an account?</p>
+                <a href="../register/index.html">Create an account</a></div>
+           <div class="login_buttons">
+            <button type="submit">Submit</button>
+            <button type="reset">Reset</button>
+           </div>
+        </form>
+        </div>
+    </div>
+    
+    <script src="./login.js" defer></script>
+</body>
+</html>
